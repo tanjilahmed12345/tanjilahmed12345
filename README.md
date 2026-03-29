@@ -21,24 +21,41 @@
 
 ## 👨‍💻 About Me
 
-```typescript
-const tanjil: Developer = {
-  name:       "Tanjil Ahmed",
-  role:       "Junior Software Engineer @ Technext Limited",
-  location:   "Sylhet, Bangladesh 🇧🇩",
-  education:  "B.Sc CSE — Sylhet Engineering College (CGPA: 3.80/4.00)",
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
-  currentWork: [
-    "Optimizing Greysheet — handling 12M+ antique coin/note records",
-    "Full-stack development for European clients",
-    "Shopify theme development with Liquid.js",
-  ],
+### 🙋 Who am I?
+Hi! I'm **Tanjil Ahmed**, a passionate Full Stack Engineer based in **Sylhet, Bangladesh 🇧🇩**
 
-  expertise:  ["Full Stack Dev", "SaaS Platforms", "eCommerce", "DSA"],
-  research:   "2× IEEE Published — Blockchain & Distributed Systems",
-  funFact:    "I debug at 2am and it actually works 🌙",
-};
-```
+I build **scalable web apps**, **SaaS platforms**, and **eCommerce solutions** that solve real-world problems. Currently working at **Technext Limited**, shipping features for European clients and handling data at massive scale.
+
+When I'm not coding, I'm grinding competitive programming problems 🧠
+
+    </td>
+    <td valign="top" width="50%">
+
+### 🔭 What I'm up to
+- 💼 **Working on** → Greysheet (12M+ records platform)
+- 🌍 **Building for** → European clients @ Technext
+- 🛒 **Specializing in** → Shopify & full-stack SaaS
+- 📚 **Learning** → System Design & Cloud Architecture
+- 🏆 **Competing on** → Codeforces, CodeChef
+- 📄 **Published** → 2× IEEE Xplore (Blockchain)
+- ⚡ **Fun fact** → I debug at 2am and it actually works 🌙
+
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+| 🎓 Education | 📍 Location | 💼 Experience | 🌐 Languages |
+|:---:|:---:|:---:|:---:|
+| B.Sc CSE @ SEC | Sylhet, Bangladesh | 1+ Years | EN · BN · HI · UR |
+| CGPA: **3.80 / 4.00** | 🇧🇩 | Full Stack Engineer | Multilingual |
+
+</div>
 
 ---
 
@@ -160,17 +177,33 @@ const tanjil: Developer = {
 
 <div align="center">
 
-[![Greysheet](https://github-readme-stats.vercel.app/api/pin/?username=tanjilahmed12345&repo=dining-management&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/tanjilahmed12345/dining-management)
-[![LaunchResume](https://github-readme-stats.vercel.app/api/pin/?username=tanjilahmed12345&repo=LaunchResume&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/tanjilahmed12345/LaunchResume)
+| 🏥 Pharma Nest BD | 📄 Uni Cover Page Generator |
+|:---:|:---:|
+| An online pharmacy platform with product listings, search, and order management | Auto-generate university cover pages — just fill in the details and download |
+| **Stack:** Next.js · TypeScript · Tailwind | **Stack:** Next.js · TypeScript · Tailwind |
+| [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/tanjilahmed12345/pharma-nest-bd) [![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://pharma-nest-bd.vercel.app/) | [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github)](https://github.com/tanjilahmed12345/uni-cover-page-generator) [![Live](https://img.shields.io/badge/Live-Demo-00C7B7?style=for-the-badge&logo=vercel)](https://cover-page-generator-blush.vercel.app/) |
+
+</div>
+
+<div align="center">
+
+[![pharma-nest-bd](https://github-readme-stats.vercel.app/api/pin/?username=tanjilahmed12345&repo=pharma-nest-bd&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/tanjilahmed12345/pharma-nest-bd)
+[![uni-cover-page-generator](https://github-readme-stats.vercel.app/api/pin/?username=tanjilahmed12345&repo=uni-cover-page-generator&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/tanjilahmed12345/uni-cover-page-generator)
 
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🌐 Work @ Technext Limited
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/tanjilahmed12345/tanjilahmed12345/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+
+I'm part of the team building **[OneSuite](https://onesuite.io/)** — a powerful all-in-one business communication platform.
+
+[![OneSuite](https://img.shields.io/badge/🌐%20Visit-onesuite.io-A78BFA?style=for-the-badge)](https://onesuite.io/)
+
+> Building scalable features, optimizing performance, and shipping production-ready code every sprint.
+
 </div>
 
 ---
