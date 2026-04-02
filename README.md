@@ -100,10 +100,10 @@ When I'm not coding, I'm grinding competitive programming problems 🧠
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tanjilahmed12345&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanjilahmed12345&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
+</div> -->
 
 <div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjilahmed12345&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B"/>
@@ -185,12 +185,12 @@ When I'm not coding, I'm grinding competitive programming problems 🧠
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
 
 [![pharma-nest-bd](https://github-readme-stats.vercel.app/api/pin/?username=tanjilahmed12345&repo=pharma-nest-bd&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/tanjilahmed12345/pharma-nest-bd)
 [![uni-cover-page-generator](https://github-readme-stats.vercel.app/api/pin/?username=tanjilahmed12345&repo=uni-cover-page-generator&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/tanjilahmed12345/uni-cover-page-generator)
 
-</div>
+</div> -->
 
 ---
 
