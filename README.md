@@ -6,10 +6,12 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Engineer+—+2%2B+Years+%40+Technext+Limited;📊+Shipped+Greysheet+—+12M%2B+records+platform;💰+Built+MoneyPilot+—+Personal+Finance+Dashboard;🩺+Built+Sunnah+Cure+—+Healthcare+Booking+Platform;🏆+Codeforces+1678+%7C+1850%2B+problems+solved;📄+2×+IEEE+Xplore+Published+%7C+Blockchain+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Engineer+—+2%2B+Years+%40+Technext+Limited;📊+Shipped+Greysheet+—+12M%2B+records+platform;💰+Built+MoneyPilot+—+Personal+Finance+Dashboard;🩺+Built+Sunnah+Cure+—+Healthcare+Booking+Platform;🏆+Codeforces+1678+%7C+2000%2B+problems+solved;📄+2×+IEEE+Xplore+Published+%7C+Blockchain+Research)](https://git.io/typing-svg)
 
 <br/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://tanjilahmed.vercel.app)
+[![Resume](https://img.shields.io/badge/Résumé-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tanjilahmed.vercel.app/Tanjil_Ahmed_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanjilahmed01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtanjil12345@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanjil-ahmed) 
@@ -56,7 +58,7 @@ I've shipped features on **[Greysheet](https://greysheet.com)** — a 12M+ recor
 
 | 🎓 Education | 📍 Location | 🏆 CF Rating | 🧩 Solved | 📄 Papers | 💼 Experience | 🚀 Projects |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| B.Sc CSE @ SEC · CGPA **3.80** | Sylhet 🇧🇩 | **1678** | **1850+** | **2×** IEEE | **2+ Years** | **6+** shipped |
+| B.Sc CSE @ SEC · CGPA **3.80** | Sylhet 🇧🇩 | **1678** | **2,000+** | **2×** IEEE | **2+ Years** | **8** shipped |
 
 </div>
 
@@ -241,7 +243,7 @@ A holistic **diagnostic center appointment booking** platform combining Propheti
 - 📊 Patient dashboard with follow-up tracking
 - ⭐ 500+ patients served · 98% satisfaction
 
-`Next.js` `TypeScript` `TailwindCSS` `Postgress` `Prisma`
+`Next.js` `TypeScript` `TailwindCSS` `PostgreSQL` `Prisma`
 
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://sunnah-cure.vercel.app/)
 
@@ -259,7 +261,7 @@ Smart **personal finance dashboard** — take full control of your money by trac
 - 💸 Budget management & goal tracking
 - 📱 Fully responsive modern UI
 
-`Next.js` `TypeScript` `TailwindCSS` `Postgress`
+`Next.js` `TypeScript` `TailwindCSS` `PostgreSQL`
 
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tanjilahmed12345/money-pilot)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://money-pilot-orcin.vercel.app/)
@@ -280,7 +282,7 @@ A full-featured **online pharmacy platform** with product listings, smart search
 - 💊 Full pharmacy catalog & product pages
 - 📱 Fully responsive modern UI
 
-`Next.js` `TypeScript` `TailwindCSS` `Postgress`
+`Next.js` `TypeScript` `TailwindCSS` `PostgreSQL`
 
 [![Repo](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/tanjilahmed12345/pharma-nest-bd)
 [![Live](https://img.shields.io/badge/Live_Demo-00C7B7?style=flat-square&logo=vercel&logoColor=white)](https://pharma-nest-bd.vercel.app/)
