@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Engineer+%40+Technext+Limited;📊+Shipped+Greysheet+—+12M%2B+records+platform;💰+Built+MoneyPilot+—+Personal+Finance+Dashboard;🩺+Built+Sunnah+Cure+—+Healthcare+Booking+Platform;🏆+Codeforces+1678+%7C+1850%2B+problems+solved;📄+2×+IEEE+Xplore+Published+%7C+Blockchain+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Engineer+—+2%2B+Years+%40+Technext+Limited;📊+Shipped+Greysheet+—+12M%2B+records+platform;💰+Built+MoneyPilot+—+Personal+Finance+Dashboard;🩺+Built+Sunnah+Cure+—+Healthcare+Booking+Platform;🏆+Codeforces+1678+%7C+1850%2B+problems+solved;📄+2×+IEEE+Xplore+Published+%7C+Blockchain+Research)](https://git.io/typing-svg)
 
 <br/>
 
@@ -26,7 +26,7 @@
 
 ### Hi there, I'm Tanjil 👋
 
-I'm a **Full Stack Engineer** from **Sylhet, Bangladesh 🇧🇩**, currently building enterprise-scale platforms at **Technext Limited** for European clients.
+I'm a **Full Stack Engineer** from **Sylhet, Bangladesh 🇧🇩**, with **2+ years of experience at Technext Limited** (May 2024 – Jul 2026), building enterprise-scale platforms for clients across the USA & Europe.
 
 I've shipped features on **[Greysheet](https://greysheet.com)** — a 12M+ record numismatic data platform trusted since 1963 — and **[OneSuite](https://onesuite.io)**, a business communication SaaS. Outside of work, I ship personal products and grind competitive programming.
 
@@ -56,7 +56,7 @@ I've shipped features on **[Greysheet](https://greysheet.com)** — a 12M+ recor
 
 | 🎓 Education | 📍 Location | 🏆 CF Rating | 🧩 Solved | 📄 Papers | 💼 Experience | 🚀 Projects |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| B.Sc CSE @ SEC · CGPA **3.80** | Sylhet 🇧🇩 | **1678** | **1850+** | **2×** IEEE | **1+ Year** | **6+** shipped |
+| B.Sc CSE @ SEC · CGPA **3.80** | Sylhet 🇧🇩 | **1678** | **1850+** | **2×** IEEE | **2+ Years** | **6+** shipped |
 
 </div>
 
@@ -112,14 +112,18 @@ I've shipped features on **[Greysheet](https://greysheet.com)** — a 12M+ recor
 <td align="center" width="18%" valign="top">
 <br/>
 
-**2023 — Now**
+**May 2024 — Jul 2026**
+
+*2+ Years*
 
 ![badge](https://img.shields.io/badge/Full_Stack-Engineer-A78BFA?style=flat-square)
 
 </td>
 <td width="82%" valign="top">
 
-### Technext Limited — Full Stack Engineer
+### Technext Limited — Junior Software Engineer
+
+*Intern Software Engineer (May 2024 – Jul 2024) → Junior Software Engineer (Aug 2024 – Jul 2026)*
 
 Delivered **4 production projects** for clients across the USA & Europe — spanning enterprise platforms, SaaS websites, and Shopify storefronts.
 
