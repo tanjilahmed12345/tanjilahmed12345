@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30" aria-hidden="true">
+  <style>
+    .pulse { animation: run 6s ease-in-out infinite; }
+    @keyframes run { 0% { transform: translateX(0) } 100% { transform: translateX(1000px) } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <linearGradient id="l" x1="0" x2="1">
+      <stop offset="0" stop-color="#A78BFA" stop-opacity="0"/><stop offset=".3" stop-color="#A78BFA" stop-opacity=".55"/>
+      <stop offset=".7" stop-color="#5EEAD4" stop-opacity=".55"/><stop offset="1" stop-color="#5EEAD4" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="p"><stop offset="0" stop-color="#fff"/><stop offset=".4" stop-color="#C4B5FD" stop-opacity=".8"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect x="0" y="14" width="1200" height="2" fill="url(#l)"/>
+  <ellipse class="pulse" cx="100" cy="15" rx="60" ry="5" fill="url(#p)"/>
+  <g transform="translate(600 15) rotate(45)"><rect x="-5" y="-5" width="10" height="10" fill="#0D1230" stroke="#C4B5FD" stroke-width="1.5"/></g>
+</svg>

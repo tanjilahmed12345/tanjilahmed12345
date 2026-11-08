@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="2+ years at Technext, 2,000+ problems solved, Codeforces max 1678, 2 IEEE papers, 8 projects shipped, CGPA 3.80">
+  <title>At a glance</title>
+  <style>
+    .up { animation: up 1s cubic-bezier(.2,.7,.2,1) backwards; }
+    @keyframes up { from { opacity:0; transform: translateY(12px) } to { opacity:1; transform:none } }
+    .sheen { animation: sheen 7s ease-in-out infinite; }
+    @keyframes sheen { 0% { transform: translateX(-300px) } 60%,100% { transform: translateX(1500px) } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1"><stop offset="0" stop-color="#0D1230"/><stop offset="1" stop-color="#171038"/></linearGradient>
+    <linearGradient id="sh" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".07"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    <clipPath id="c"><rect width="1200" height="190" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <rect width="1200" height="190" fill="url(#bg)"/>
+    <circle cx="761.3" cy="152.3" r="0.45" fill="#E9E7FF" class="tw" style="animation-delay:5.14s;animation-duration:3.27s"/>
+    <circle cx="1035.3" cy="86.2" r="0.60" fill="#E9E7FF" class="tw" style="animation-delay:3.32s;animation-duration:6.71s"/>
+    <circle cx="321.4" cy="24.6" r="0.72" fill="#E9E7FF" class="tw" style="animation-delay:1.43s;animation-duration:3.44s"/>
+    <circle cx="193.7" cy="9.6" r="0.52" fill="#E9E7FF" class="tw" style="animation-delay:1.87s;animation-duration:4.22s"/>
+    <circle cx="911.4" cy="55.1" r="0.70" fill="#E9E7FF" class="tw" style="animation-delay:1.07s;animation-duration:4.39s"/>
+    <circle cx="21.8" cy="47.6" r="0.41" fill="#E9E7FF" class="tw" style="animation-delay:4.40s;animation-duration:5.20s"/>
+    <circle cx="227.3" cy="90.2" r="0.96" fill="#E9E7FF" class="tw" style="animation-delay:0.64s;animation-duration:6.28s"/>
+    <circle cx="518.6" cy="94.1" r="0.90" fill="#E9E7FF" class="tw" style="animation-delay:2.36s;animation-duration:5.03s"/>
+    <circle cx="825.3" cy="186.7" r="0.61" fill="#E9E7FF" class="tw" style="animation-delay:4.99s;animation-duration:5.83s"/>
+    <circle cx="763.2" cy="76.9" r="0.61" fill="#E9E7FF" class="tw" style="animation-delay:0.33s;animation-duration:3.52s"/>
+    <circle cx="84.9" cy="140.8" r="0.55" fill="#E9E7FF" class="tw" style="animation-delay:0.98s;animation-duration:3.34s"/>
+    <circle cx="1009.5" cy="165.4" r="0.80" fill="#E9E7FF" class="tw" style="animation-delay:1.69s;animation-duration:3.97s"/>
+    <circle cx="351.7" cy="87.3" r="0.49" fill="#E9E7FF" class="tw" style="animation-delay:2.67s;animation-duration:4.05s"/>
+    <circle cx="1154.1" cy="184.8" r="0.73" fill="#E9E7FF" class="tw" style="animation-delay:1.47s;animation-duration:6.86s"/>
+    <circle cx="371.5" cy="67.8" r="0.40" fill="#E9E7FF" class="tw" style="animation-delay:2.29s;animation-duration:4.90s"/>
+    <circle cx="603.3" cy="38.2" r="0.70" fill="#E9E7FF" class="tw" style="animation-delay:0.03s;animation-duration:4.06s"/>
+    <circle cx="107.7" cy="75.9" r="0.43" fill="#E9E7FF" class="tw" style="animation-delay:0.13s;animation-duration:4.22s"/>
+    <circle cx="279.4" cy="111.3" r="0.72" fill="#E9E7FF" class="tw" style="animation-delay:4.50s;animation-duration:5.63s"/>
+    <circle cx="859.2" cy="167.0" r="0.63" fill="#E9E7FF" class="tw" style="animation-delay:1.96s;animation-duration:6.94s"/>
+    <circle cx="179.4" cy="137.6" r="0.79" fill="#E9E7FF" class="tw" style="animation-delay:0.26s;animation-duration:6.34s"/>
+    <circle cx="1070.3" cy="119.2" r="0.84" fill="#E9E7FF" class="tw" style="animation-delay:4.87s;animation-duration:3.56s"/>
+    <circle cx="628.5" cy="95.8" r="0.90" fill="#E9E7FF" class="tw" style="animation-delay:4.83s;animation-duration:6.31s"/>
+    <circle cx="700.9" cy="169.6" r="0.81" fill="#E9E7FF" class="tw" style="animation-delay:4.16s;animation-duration:3.92s"/>
+    <circle cx="37.4" cy="25.3" r="0.62" fill="#E9E7FF" class="tw" style="animation-delay:0.63s;animation-duration:6.34s"/>
+    <circle cx="670.2" cy="119.3" r="0.78" fill="#E9E7FF" class="tw" style="animation-delay:4.08s;animation-duration:4.96s"/>
+    <circle cx="4.0" cy="151.6" r="0.85" fill="#E9E7FF" class="tw" style="animation-delay:3.02s;animation-duration:5.14s"/>
+    <circle cx="791.2" cy="12.5" r="0.84" fill="#E9E7FF" class="tw" style="animation-delay:1.51s;animation-duration:3.30s"/>
+    <circle cx="318.7" cy="138.6" r="0.52" fill="#E9E7FF" class="tw" style="animation-delay:4.44s;animation-duration:6.90s"/>
+    <circle cx="592.7" cy="72.7" r="0.69" fill="#E9E7FF" class="tw" style="animation-delay:4.10s;animation-duration:6.07s"/>
+    <circle cx="740.4" cy="122.1" r="0.45" fill="#E9E7FF" class="tw" style="animation-delay:0.88s;animation-duration:4.02s"/>
+    
+    <g class="up" style="animation-delay:0.00s">
+      <rect x="20.0" y="22" width="180.0" height="146" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#A78BFA" stroke-opacity=".35"/>
+      <rect x="42.0" y="40" width="28" height="4" rx="2" fill="#A78BFA"/>
+      <text x="42.0" y="104" font-size="40" font-weight="800" fill="#F5F3FF" letter-spacing="-1">2+</text>
+      <text x="42.0" y="140" font-size="14.5" fill="#B4BCE6">Years at Technext</text>
+    </g>
+    <g class="up" style="animation-delay:0.12s">
+      <rect x="216.0" y="22" width="180.0" height="146" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#5EEAD4" stroke-opacity=".35"/>
+      <rect x="238.0" y="40" width="28" height="4" rx="2" fill="#5EEAD4"/>
+      <text x="238.0" y="104" font-size="40" font-weight="800" fill="#F5F3FF" letter-spacing="-1">2,000+</text>
+      <text x="238.0" y="140" font-size="14.5" fill="#B4BCE6">Problems Solved</text>
+    </g>
+    <g class="up" style="animation-delay:0.24s">
+      <rect x="412.0" y="22" width="180.0" height="146" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#FCD34D" stroke-opacity=".35"/>
+      <rect x="434.0" y="40" width="28" height="4" rx="2" fill="#FCD34D"/>
+      <text x="434.0" y="104" font-size="40" font-weight="800" fill="#F5F3FF" letter-spacing="-1">1678</text>
+      <text x="434.0" y="140" font-size="14.5" fill="#B4BCE6">Codeforces Max</text>
+    </g>
+    <g class="up" style="animation-delay:0.36s">
+      <rect x="608.0" y="22" width="180.0" height="146" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#7DD3FC" stroke-opacity=".35"/>
+      <rect x="630.0" y="40" width="28" height="4" rx="2" fill="#7DD3FC"/>
+      <text x="630.0" y="104" font-size="40" font-weight="800" fill="#F5F3FF" letter-spacing="-1">2×</text>
+      <text x="630.0" y="140" font-size="14.5" fill="#B4BCE6">IEEE Papers</text>
+    </g>
+    <g class="up" style="animation-delay:0.48s">
+      <rect x="804.0" y="22" width="180.0" height="146" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#F0ABFC" stroke-opacity=".35"/>
+      <rect x="826.0" y="40" width="28" height="4" rx="2" fill="#F0ABFC"/>
+      <text x="826.0" y="104" font-size="40" font-weight="800" fill="#F5F3FF" letter-spacing="-1">8</text>
+      <text x="826.0" y="140" font-size="14.5" fill="#B4BCE6">Projects Shipped</text>
+    </g>
+    <g class="up" style="animation-delay:0.60s">
+      <rect x="1000.0" y="22" width="180.0" height="146" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#86EFAC" stroke-opacity=".35"/>
+      <rect x="1022.0" y="40" width="28" height="4" rx="2" fill="#86EFAC"/>
+      <text x="1022.0" y="104" font-size="40" font-weight="800" fill="#F5F3FF" letter-spacing="-1">3.80</text>
+      <text x="1022.0" y="140" font-size="14.5" fill="#B4BCE6">CGPA · B.Sc CSE</text>
+    </g>
+    <g class="sheen"><rect x="0" y="0" width="220" height="190" fill="url(#sh)" transform="skewX(-20)"/></g>
+  </g>
+  <rect x=".75" y=".75" width="1198.5" height="188.5" rx="21.5" fill="none" stroke="#C4B5FD" stroke-opacity=".2" stroke-width="1.5"/>
+  <style>.tw { animation: tw 5s ease-in-out infinite; } @keyframes tw { 0%,100% { opacity:.1 } 50% { opacity:.7 } }</style>
+</svg>

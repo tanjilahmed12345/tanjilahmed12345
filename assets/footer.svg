@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Thanks for visiting">
+  <title>Thanks for visiting</title>
+  <style>
+    .w1 { animation: m 28s linear infinite; }
+    .w2 { animation: m 20s linear infinite reverse; }
+    .w3 { animation: m 14s linear infinite; }
+    @keyframes m { to { transform: translateX(-1200px) } }
+    .tw { animation: tw 5s ease-in-out infinite; } @keyframes tw { 0%,100% { opacity:.1 } 50% { opacity:.8 } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0A0F24" stop-opacity="0"/><stop offset=".35" stop-color="#0A0F24"/><stop offset="1" stop-color="#151036"/></linearGradient>
+    <clipPath id="c"><rect width="1200" height="200" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#c)">
+    <rect width="1200" height="200" fill="url(#bg)"/>
+    <g opacity=".9"><circle cx="891.9" cy="27.4" r="0.74" fill="#E9E7FF" class="tw" style="animation-delay:0.07s;animation-duration:3.24s"/>
+    <circle cx="322.5" cy="60.5" r="0.82" fill="#E9E7FF" class="tw" style="animation-delay:4.05s;animation-duration:4.16s"/>
+    <circle cx="619.8" cy="41.8" r="0.68" fill="#E9E7FF" class="tw" style="animation-delay:0.71s;animation-duration:6.57s"/>
+    <circle cx="239.1" cy="88.0" r="0.96" fill="#E9E7FF" class="tw" style="animation-delay:0.11s;animation-duration:4.84s"/>
+    <circle cx="983.9" cy="87.1" r="0.67" fill="#E9E7FF" class="tw" style="animation-delay:1.61s;animation-duration:3.84s"/>
+    <circle cx="1134.7" cy="19.0" r="0.75" fill="#E9E7FF" class="tw" style="animation-delay:0.85s;animation-duration:5.10s"/>
+    <circle cx="1143.3" cy="11.9" r="0.89" fill="#E9E7FF" class="tw" style="animation-delay:3.05s;animation-duration:6.55s"/>
+    <circle cx="844.0" cy="20.8" r="0.94" fill="#E9E7FF" class="tw" style="animation-delay:2.92s;animation-duration:3.10s"/>
+    <circle cx="4.3" cy="44.3" r="0.67" fill="#E9E7FF" class="tw" style="animation-delay:1.81s;animation-duration:3.56s"/>
+    <circle cx="412.8" cy="28.4" r="0.90" fill="#E9E7FF" class="tw" style="animation-delay:0.01s;animation-duration:6.00s"/>
+    <circle cx="1006.9" cy="10.8" r="0.96" fill="#E9E7FF" class="tw" style="animation-delay:4.28s;animation-duration:6.61s"/>
+    <circle cx="347.8" cy="33.5" r="0.64" fill="#E9E7FF" class="tw" style="animation-delay:5.99s;animation-duration:5.36s"/>
+    <circle cx="432.9" cy="38.5" r="0.57" fill="#E9E7FF" class="tw" style="animation-delay:0.29s;animation-duration:3.41s"/>
+    <circle cx="1001.6" cy="25.7" r="0.96" fill="#E9E7FF" class="tw" style="animation-delay:1.50s;animation-duration:4.06s"/>
+    <circle cx="613.2" cy="17.1" r="0.62" fill="#E9E7FF" class="tw" style="animation-delay:5.74s;animation-duration:6.54s"/>
+    <circle cx="974.4" cy="56.8" r="0.95" fill="#E9E7FF" class="tw" style="animation-delay:5.64s;animation-duration:5.20s"/>
+    <circle cx="863.5" cy="4.5" r="0.84" fill="#E9E7FF" class="tw" style="animation-delay:2.71s;animation-duration:6.01s"/>
+    <circle cx="773.4" cy="25.8" r="0.43" fill="#E9E7FF" class="tw" style="animation-delay:5.56s;animation-duration:3.51s"/>
+    <circle cx="566.6" cy="30.9" r="0.58" fill="#E9E7FF" class="tw" style="animation-delay:4.43s;animation-duration:6.91s"/>
+    <circle cx="312.2" cy="59.0" r="0.58" fill="#E9E7FF" class="tw" style="animation-delay:3.34s;animation-duration:4.58s"/>
+    <circle cx="200.8" cy="14.5" r="0.52" fill="#E9E7FF" class="tw" style="animation-delay:5.44s;animation-duration:4.99s"/>
+    <circle cx="264.0" cy="81.6" r="1.00" fill="#E9E7FF" class="tw" style="animation-delay:2.70s;animation-duration:3.56s"/>
+    <circle cx="230.9" cy="8.2" r="0.61" fill="#E9E7FF" class="tw" style="animation-delay:0.55s;animation-duration:3.96s"/>
+    <circle cx="310.0" cy="51.3" r="0.93" fill="#E9E7FF" class="tw" style="animation-delay:4.50s;animation-duration:4.65s"/>
+    <circle cx="496.7" cy="47.2" r="0.63" fill="#E9E7FF" class="tw" style="animation-delay:2.03s;animation-duration:3.25s"/></g>
+    <path class="w1" d="M0 108 q 100.0 -14 200.0 0 t 200.0 0 q 100.0 -14 200.0 0 t 200.0 0 q 100.0 -14 200.0 0 t 200.0 0 q 100.0 -14 200.0 0 t 200.0 0 q 100.0 -14 200.0 0 t 200.0 0 q 100.0 -14 200.0 0 t 200.0 0 q 100.0 -14 200.0 0 t 200.0 0 V 200 H 0 Z" fill="#7C3AED" fill-opacity=".22"/>
+    <path class="w2" d="M0 126 q 75.0 -10 150.0 0 t 150.0 0 q 75.0 -10 150.0 0 t 150.0 0 q 75.0 -10 150.0 0 t 150.0 0 q 75.0 -10 150.0 0 t 150.0 0 q 75.0 -10 150.0 0 t 150.0 0 q 75.0 -10 150.0 0 t 150.0 0 q 75.0 -10 150.0 0 t 150.0 0 q 75.0 -10 150.0 0 t 150.0 0 q 75.0 -10 150.0 0 t 150.0 0 V 200 H 0 Z" fill="#0EA5A4" fill-opacity=".18"/>
+    <path class="w3" d="M0 160 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 q 60.0 -8 120.0 0 t 120.0 0 V 200 H 0 Z" fill="#A78BFA" fill-opacity=".14"/>
+    <text x="600" y="60" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="600" fill="#E9E5FF">Thanks for stopping by</text>
+    <text x="600" y="86" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="13" fill="#A5B4FC" letter-spacing="1.5">LET'S BUILD SOMETHING GREAT TOGETHER</text>
+  </g>
+</svg>

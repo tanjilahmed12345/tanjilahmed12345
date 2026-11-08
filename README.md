@@ -1,17 +1,17 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tanjil%20Ahmed&fontSize=56&fontColor=fff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20IEEE%20Researcher%20%7C%20Competitive%20Programmer&descAlignY=58&descSize=15&animation=twinkling" />
+<a href="https://tanjilahmed.vercel.app"><img width="100%" src="./assets/header.svg" alt="Tanjil Ahmed, Full-Stack Software Engineer" /></a>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Engineer+—+2%2B+Years+%40+Technext+Limited;📊+Shipped+Greysheet+—+12M%2B+records+platform;💰+Built+MoneyPilot+—+Personal+Finance+Dashboard;🩺+Built+Sunnah+Cure+—+Healthcare+Booking+Platform;🏆+Codeforces+1678+%7C+2000%2B+problems+solved;📄+2×+IEEE+Xplore+Published+%7C+Blockchain+Research)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3800&pause=1200&color=A78BFA&center=true&vCenter=true&random=false&width=700&lines=🚀+Full+Stack+Engineer+—+2%2B+Years+%40+Technext+Limited;📊+Shipped+Greysheet+—+12M%2B+records+platform;💰+Built+MoneyPilot+—+Personal+Finance+Dashboard;🩺+Built+Sunnah+Cure+—+Healthcare+Booking+Platform;🏆+Codeforces+1678+%7C+2000%2B+problems+solved;📄+2×+IEEE+Xplore+Published+%7C+Blockchain+Research)](https://git.io/typing-svg)
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-A78BFA?style=for-the-badge&logo=vercel&logoColor=white)](https://tanjilahmed.vercel.app)
-[![Resume](https://img.shields.io/badge/Résumé-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tanjilahmed.vercel.app/Tanjil_Ahmed_Resume.pdf)
+[![Resume](https://img.shields.io/badge/Resume-PDF-FF6B6B?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://tanjilahmed.vercel.app/Tanjil_Ahmed_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanjilahmed01)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedtanjil12345@gmail.com)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/tanjil-ahmed) 
@@ -21,7 +21,7 @@
 
 <br/>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 About Me 〉
 
@@ -56,56 +56,38 @@ I've shipped features on **[Greysheet](https://greysheet.com)** — a 12M+ recor
 
 <div align="center">
 
-| 🎓 Education | 📍 Location | 🏆 CF Rating | 🧩 Solved | 📄 Papers | 💼 Experience | 🚀 Projects |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| B.Sc CSE @ SEC · CGPA **3.80** | Sylhet 🇧🇩 | **1678** | **2,000+** | **2×** IEEE | **2+ Years** | **8** shipped |
+<img width="100%" src="./assets/stats.svg" alt="2+ years at Technext, 2,000+ problems solved, Codeforces max 1678, 2 IEEE papers, 8 projects shipped, CGPA 3.80" />
 
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 Tech Arsenal 〉
 
 <div align="center">
 
-**Languages**
+**Languages & Frontend**<br/>
+<img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,react,nextjs,remix,astro,tailwind,redux&theme=dark&perline=11" />
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+<br/><br/>
 
-**Frontend**
+**Backend & Database**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,postgres,mongodb,mysql,prisma,redis&theme=dark&perline=9" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
-![Remix](https://img.shields.io/badge/Remix-000?style=flat-square&logo=remix&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+<br/><br/>
 
-**Backend & Database**
+**DevOps & Tools**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,vscode&theme=dark&perline=6" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+<br/><br/>
 
-**DevOps & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+![Liquid](https://img.shields.io/badge/Liquid-1A1F36?style=flat-square&logo=shopify&logoColor=96BF48)
+![ASP.NET Razor](https://img.shields.io/badge/ASP.NET_Razor-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 Experience 〉
 
@@ -140,7 +122,7 @@ Delivered **4 production projects** for clients across the USA & Europe — span
 </tr>
 </table>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 Projects 〉
 
@@ -310,23 +292,21 @@ Auto-generate formatted **university assignment cover pages** in seconds — fil
 </tr>
 </table>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 GitHub Analytics 〉
 
 <div align="center">
 
-<br/>
-
-<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjilahmed12345&theme=tokyonight&hide_border=true&background=0d1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA"/>
+<img width="100%" src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution graph" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=tanjilahmed12345&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=A78BFA&line=A78BFA&point=ffffff&area=true&area_color=A78BFA" width="95%"/>
+<img width="68%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanjilahmed12345&theme=tokyonight&hide_border=true&background=0D1230&stroke=A78BFA&ring=A78BFA&fire=5EEAD4&currStreakLabel=A78BFA&sideLabels=C7D2FE&dates=8A93C9" alt="GitHub streak" />
 
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 Competitive Programming 〉
 
@@ -341,7 +321,7 @@ Auto-generate formatted **university assignment cover pages** in seconds — fil
 
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 Achievements 〉
 
@@ -358,7 +338,7 @@ Auto-generate formatted **university assignment cover pages** in seconds — fil
 
 </div>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 IEEE Research 〉
 
@@ -385,7 +365,7 @@ Auto-generate formatted **university assignment cover pages** in seconds — fil
 </tr>
 </table>
 
----
+<img width="100%" src="./assets/divider.svg" alt="" />
 
 <div align="center">
 
@@ -394,10 +374,10 @@ Auto-generate formatted **university assignment cover pages** in seconds — fil
 
 <br/>
 
-**Thanks for visiting! Drop a ⭐ on anything useful 🙏**
+**Drop a ⭐ on anything you find useful**
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling"/>
+<img width="100%" src="./assets/footer.svg" alt="Thanks for stopping by" />
 
 </div>
