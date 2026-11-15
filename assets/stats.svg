@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="2+ years at Technext, 2,000+ problems solved, Codeforces max 1678, 2 IEEE papers, 8 projects shipped, CGPA 3.80">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="2+ years at Technext, 2,000+ problems solved, Codeforces max 1678, 2 IEEE papers, 9 projects shipped, CGPA 3.80">
   <title>At a glance</title>
   <style>
     .up { animation: up 1s cubic-bezier(.2,.7,.2,1) backwards; }
@@ -72,7 +72,7 @@
     <g class="up" style="animation-delay:0.48s">
       <rect x="804.0" y="22" width="180.0" height="146" rx="18" fill="#ffffff" fill-opacity=".045" stroke="#F0ABFC" stroke-opacity=".35"/>
       <rect x="826.0" y="40" width="28" height="4" rx="2" fill="#F0ABFC"/>
-      <text x="826.0" y="104" font-size="40" font-weight="800" fill="#F5F3FF" letter-spacing="-1">8</text>
+      <text x="826.0" y="104" font-size="40" font-weight="800" fill="#F5F3FF" letter-spacing="-1">9</text>
       <text x="826.0" y="140" font-size="14.5" fill="#B4BCE6">Projects Shipped</text>
     </g>
     <g class="up" style="animation-delay:0.60s">

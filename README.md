@@ -38,6 +38,9 @@ I've shipped features on **[Greysheet](https://greysheet.com)** — a 12M+ recor
 - `Bmboo Lighting` — Shopify storefront for client (New Mexico, USA)
 - `DermaQuestInc` — Shopify e-commerce for client (California, USA)
 
+**🌍 Freelance**
+- `Netbios Tech` — bilingual WordPress company website for client (Frankfurt, Germany)
+
 **🛠️ Personal projects shipped**
 - `Sunnah Cure` — healthcare appointment booking platform
 - `MoneyPilot` — personal finance dashboard
@@ -56,7 +59,7 @@ I've shipped features on **[Greysheet](https://greysheet.com)** — a 12M+ recor
 
 <div align="center">
 
-<img width="100%" src="./assets/stats.svg" alt="2+ years at Technext, 2,000+ problems solved, Codeforces max 1678, 2 IEEE papers, 8 projects shipped, CGPA 3.80" />
+<img width="100%" src="./assets/stats.svg" alt="2+ years at Technext, 2,000+ problems solved, Codeforces max 1678, 2 IEEE papers, 9 projects shipped, CGPA 3.80" />
 
 </div>
 
@@ -72,7 +75,7 @@ I've shipped features on **[Greysheet](https://greysheet.com)** — a 12M+ recor
 <br/><br/>
 
 **Backend & Database**<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,postgres,mongodb,mysql,prisma,redis&theme=dark&perline=9" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,dotnet,php,wordpress,postgres,mongodb,mysql,prisma,redis&theme=dark&perline=11" />
 
 <br/><br/>
 
@@ -125,6 +128,31 @@ Delivered **4 production projects** for clients across the USA & Europe — span
 <img width="100%" src="./assets/divider.svg" alt="" />
 
 ## 〈 Projects 〉
+
+### ── Freelance ──
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛰️ [Netbios Tech](https://netbiostech.com/) — Data Center Services Website
+> Freelance Client Project · Frankfurt, Germany · Production
+
+Company website for **Netbios Tech UG**, a Frankfurt-based data center field services provider (fiber, DWDM, rack & stack, smart hands, 24×7 support). Built a fast, bilingual site on a fully custom WordPress theme, with no page builder and no third-party requests.
+
+**Contributions**
+- 🧱 Custom classic PHP theme with design tokens, core blocks & self-hosted fonts
+- 🌍 45 pages in English & German — 10 service pages, process, industries, coverage, careers, FAQ & Impressum
+- 🔍 Technical SEO — hreflang, JSON-LD schema, Open Graph & meta tags
+- 📨 Lead capture via WPForms contact flow
+
+`WordPress` `PHP` `Custom Theme` `CSS` `JavaScript` `WPForms` `i18n (EN / DE)`
+
+[![Live](https://img.shields.io/badge/🌐_netbiostech.com-06182A?style=for-the-badge)](https://netbiostech.com/)
+
+</td>
+</tr>
+</table>
 
 ### ── Professional @ Technext Limited ──
 
